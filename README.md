@@ -1,4 +1,4 @@
-# DayZ-Generating Navigation Mesh Guide | ENG + RUS
+# DayZ - Generating Navigation Mesh Guide | ENG + RUS
 --------------------------------------------------------------------------------
 # ENGLISH
 
